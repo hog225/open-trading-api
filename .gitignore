@@ -165,3 +165,9 @@ cython_debug/
 *.lock
 
 *_logs/
+
+stocks_info/*.xlsx
+stocks_info/*.COD
+stocks_info/*.zip
+stocks_info/*.json
+stocks_info/*.mst
